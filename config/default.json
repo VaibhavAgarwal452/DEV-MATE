@@ -1,0 +1,7 @@
+
+{
+    "mongoURI": "mongodb+srv://vaibhav:qwerty1234@cluster0.3vxei.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"df53ea4e9dd90a4b0c19",
+    "githubSecret":" 21739c25beb3ada12cac2cbe0d8e142184679407"
+}
